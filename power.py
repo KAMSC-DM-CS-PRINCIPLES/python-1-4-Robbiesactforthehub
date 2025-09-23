@@ -1,5 +1,6 @@
 def power(x, n):
-    P=x, k=1
+    P=x
+    k=1
     while (k<n):
         P= P * x
         k= k+1
